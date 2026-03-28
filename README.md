@@ -1,12 +1,5 @@
 # Innovation in Bank Simulation.
 
-#### This is the Group Project for FOP
-#### Contributed by - 
-#### Sagnik Das
-#### Parth Gawade
-#### Shreeraj Hujare
-#### Rajneesh bandwal
-#### Unmesh Shinde
 # Advanced Bank Management and Simulation System
 
 A C-based banking simulation system with an integrated neural network for customer churn and credit risk prediction — built from scratch without any external ML libraries.
